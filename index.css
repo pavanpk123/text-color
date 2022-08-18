@@ -1,0 +1,14 @@
+body {
+    background-color: lightgrey;
+    color: green;
+  }
+  
+  h1 {
+    background-color: black;
+    color: yellow;
+  }
+  
+  div {
+    background-color: blue;
+    color: white;
+  }
